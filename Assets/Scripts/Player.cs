@@ -13,6 +13,8 @@ public class Player : MonoBehaviour
     private float vertical;
     private Rigidbody2D rb;
     private float timer;
+    private Collision2D col;
+    private bool playing;
 
 
     void Start()
@@ -38,14 +40,21 @@ public class Player : MonoBehaviour
                 if (_animator.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1)
                 {
                     _animator.SetBool("IsIdle", false);
-
                 }
+
                 timer += Time.deltaTime;
             }
         }
         else
         {
             _animator.SetBool("IsIdle", false);
+        }
+
+        if (Input.GetKey(KeyCode.F) && col != null && !playing)
+        {
+            Debug.Log("test");
+            col.gameObject.GetComponent<AudioSource>().Play();
+            playing = true;
         }
     }
 
@@ -62,4 +71,19 @@ public class Player : MonoBehaviour
         _animator.SetBool("IsWalkingTop", vertical > 0f);
     }
 
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.transform.tag == "jukebox")
+        {
+            col = other;
+        }
+    }
+    private void OnCollisionExit2D(Collision2D other)
+    {
+        if (other.transform.tag == "jukebox")
+        {
+            playing = false;
+            col = null;
+        }
+    }
 }
