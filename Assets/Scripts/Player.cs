@@ -1,13 +1,18 @@
 using System;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    [Range(1, 300)] [SerializeField] private float speed;
-    [SerializeField] private float rotationSpeed;
+    [Range(1, 500)] [SerializeField] private float speed;
+    [SerializeField] private Animator _animator;
+    [SerializeField] private float timeToReach;
+
     private float horizontal;
     private float vertical;
     private Rigidbody2D rb;
+    private float timer;
 
 
     void Start()
@@ -19,10 +24,42 @@ public class Player : MonoBehaviour
     {
         horizontal = Input.GetAxis("Horizontal");
         vertical = Input.GetAxis("Vertical");
+        flip();
+        if (horizontal == 0 && vertical == 0)
+        {
+            if (timeToReach <= timer)
+            {
+                _animator.SetBool("IsIdle", true);
+
+                timer = 0;
+            }
+            else
+            {
+                if (_animator.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1)
+                {
+                    _animator.SetBool("IsIdle", false);
+
+                }
+                timer += Time.deltaTime;
+            }
+        }
+        else
+        {
+            _animator.SetBool("IsIdle", false);
+        }
     }
 
     private void FixedUpdate()
     {
-        rb.velocity = Vector2.ClampMagnitude(new Vector2(horizontal, vertical) * speed, speed);
+        rb.velocity = Vector2.ClampMagnitude(new Vector2(horizontal, vertical) * speed * Time.deltaTime, speed);
     }
+
+    private void flip()
+    {
+        _animator.SetBool("IsWalkingLeft", horizontal < 0f);
+        _animator.SetBool("IsWalkingRight", horizontal > 0f);
+        _animator.SetBool("IsWalkingDown", vertical < 0f);
+        _animator.SetBool("IsWalkingTop", vertical > 0f);
+    }
+
 }
