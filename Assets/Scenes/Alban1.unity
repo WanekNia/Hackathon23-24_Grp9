@@ -2570,6 +2570,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2394253730481236070, guid: 9cfe448132705348a930f2032e609a67, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 2837657642230647769, guid: 9cfe448132705348a930f2032e609a67, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.734
@@ -2614,6 +2618,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: JukeBox
       objectReference: {fileID: 0}
+    - target: {fileID: 7631847338173530439, guid: 9cfe448132705348a930f2032e609a67, type: 3}
+      propertyPath: MusicList.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631847338173530439, guid: 9cfe448132705348a930f2032e609a67, type: 3}
+      propertyPath: MusicList.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: 16fa299c94480a9ceb351850a936a804, type: 3}
+    - target: {fileID: 7631847338173530439, guid: 9cfe448132705348a930f2032e609a67, type: 3}
+      propertyPath: MusicList.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 6c912e08c8e02ed108c51e147bf51740, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

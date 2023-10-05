@@ -1,13 +1,14 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using Random=UnityEngine.Random;
 public class Jukebox : MonoBehaviour
 {
 
     private Collision2D col;
     private bool playing;
+    [SerializeField] private List<AudioClip> MusicList = new List<AudioClip>();
+
     private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.transform.tag == "Player")
@@ -40,6 +41,9 @@ public class Jukebox : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.E) && col != null && !playing)
         {
+             
+
+            GetComponent<AudioSource>().clip = MusicList[Random.Range(0, MusicList.Capacity)];
             GetComponent<AudioSource>().Play();
             playing = true;
         }
