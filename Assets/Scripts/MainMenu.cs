@@ -5,16 +5,18 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
+    public GameObject CharacterSettingsMenu;
 
     public void EnterMuseum()
     {
         Debug.Log("Entering...");
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(1);
     }
     public void CharacterSettings()
     {
         Debug.Log("Settings...");
-        SceneManager.LoadScene(1);
+        CharacterSettingsMenu.SetActive(true);
+        gameObject.SetActive(false);
     }
     public void QuitGame()
     {
