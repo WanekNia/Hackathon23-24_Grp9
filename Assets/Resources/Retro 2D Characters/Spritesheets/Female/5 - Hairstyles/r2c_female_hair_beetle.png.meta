@@ -1,0 +1,6544 @@
+fileFormatVersion: 2
+guid: 369189e853c71ef41954993f411c4ba7
+labels:
+- 2D
+- Pixelart
+- Pixel
+- Characters
+- Character
+- Retro
+- RPG
+- Spritesheet
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: r2c_female_hair_beetle_ash_0
+  - first:
+      213: 21300002
+    second: r2c_female_hair_beetle_ash_1
+  - first:
+      213: 21300004
+    second: r2c_female_hair_beetle_ash_2
+  - first:
+      213: 21300006
+    second: r2c_female_hair_beetle_ash_3
+  - first:
+      213: 21300008
+    second: r2c_female_hair_beetle_ash_4
+  - first:
+      213: 21300010
+    second: r2c_female_hair_beetle_ash_5
+  - first:
+      213: 21300012
+    second: r2c_female_hair_beetle_ash_6
+  - first:
+      213: 21300014
+    second: r2c_female_hair_beetle_ash_7
+  - first:
+      213: 21300016
+    second: r2c_female_hair_beetle_ash_8
+  - first:
+      213: 21300018
+    second: r2c_female_hair_beetle_ash_9
+  - first:
+      213: 21300020
+    second: r2c_female_hair_beetle_ash_10
+  - first:
+      213: 21300022
+    second: r2c_female_hair_beetle_ash_11
+  - first:
+      213: 21300024
+    second: r2c_female_hair_beetle_ash_12
+  - first:
+      213: 21300026
+    second: r2c_female_hair_beetle_ash_13
+  - first:
+      213: 21300028
+    second: r2c_female_hair_beetle_ash_14
+  - first:
+      213: 21300030
+    second: r2c_female_hair_beetle_ash_15
+  - first:
+      213: 21300032
+    second: r2c_female_hair_beetle_ash_16
+  - first:
+      213: 21300034
+    second: r2c_female_hair_beetle_ash_17
+  - first:
+      213: 21300036
+    second: r2c_female_hair_beetle_ash_18
+  - first:
+      213: 21300038
+    second: r2c_female_hair_beetle_ash_19
+  - first:
+      213: 21300040
+    second: r2c_female_hair_beetle_ash_20
+  - first:
+      213: 21300042
+    second: r2c_female_hair_beetle_ash_21
+  - first:
+      213: 21300044
+    second: r2c_female_hair_beetle_ash_22
+  - first:
+      213: 21300046
+    second: r2c_female_hair_beetle_ash_23
+  - first:
+      213: 21300048
+    second: r2c_female_hair_beetle_ash_24
+  - first:
+      213: 21300050
+    second: r2c_female_hair_beetle_ash_25
+  - first:
+      213: 21300052
+    second: r2c_female_hair_beetle_ash_26
+  - first:
+      213: 21300054
+    second: r2c_female_hair_beetle_ash_27
+  - first:
+      213: 21300056
+    second: r2c_female_hair_beetle_ash_28
+  - first:
+      213: 21300058
+    second: r2c_female_hair_beetle_ash_29
+  - first:
+      213: 21300060
+    second: r2c_female_hair_beetle_ash_30
+  - first:
+      213: 21300062
+    second: r2c_female_hair_beetle_ash_31
+  - first:
+      213: 21300064
+    second: r2c_female_hair_beetle_ash_32
+  - first:
+      213: 21300066
+    second: r2c_female_hair_beetle_ash_33
+  - first:
+      213: 21300068
+    second: r2c_female_hair_beetle_ash_34
+  - first:
+      213: 21300070
+    second: r2c_female_hair_beetle_ash_35
+  - first:
+      213: 21300072
+    second: r2c_female_hair_beetle_ash_36
+  - first:
+      213: 21300074
+    second: r2c_female_hair_beetle_ash_37
+  - first:
+      213: 21300076
+    second: r2c_female_hair_beetle_ash_38
+  - first:
+      213: 21300078
+    second: r2c_female_hair_beetle_ash_39
+  - first:
+      213: 21300080
+    second: r2c_female_hair_beetle_ash_40
+  - first:
+      213: 21300082
+    second: r2c_female_hair_beetle_ash_41
+  - first:
+      213: 21300084
+    second: r2c_female_hair_beetle_ash_42
+  - first:
+      213: 21300086
+    second: r2c_female_hair_beetle_ash_43
+  - first:
+      213: 21300088
+    second: r2c_female_hair_beetle_ash_44
+  - first:
+      213: 21300090
+    second: r2c_female_hair_beetle_ash_45
+  - first:
+      213: 21300092
+    second: r2c_female_hair_beetle_ash_46
+  - first:
+      213: 21300094
+    second: r2c_female_hair_beetle_ash_47
+  - first:
+      213: 21300096
+    second: r2c_female_hair_beetle_ash_48
+  - first:
+      213: 21300098
+    second: r2c_female_hair_beetle_ash_49
+  - first:
+      213: 21300100
+    second: r2c_female_hair_beetle_ash_50
+  - first:
+      213: 21300102
+    second: r2c_female_hair_beetle_ash_51
+  - first:
+      213: 21300104
+    second: r2c_female_hair_beetle_ash_52
+  - first:
+      213: 21300106
+    second: r2c_female_hair_beetle_ash_53
+  - first:
+      213: 21300108
+    second: r2c_female_hair_beetle_ash_54
+  - first:
+      213: 21300110
+    second: r2c_female_hair_beetle_ash_55
+  - first:
+      213: 21300112
+    second: r2c_female_hair_beetle_ash_56
+  - first:
+      213: 21300114
+    second: r2c_female_hair_beetle_ash_57
+  - first:
+      213: 21300116
+    second: r2c_female_hair_beetle_ash_58
+  - first:
+      213: 21300118
+    second: r2c_female_hair_beetle_ash_59
+  - first:
+      213: 21300120
+    second: r2c_female_hair_beetle_ash_60
+  - first:
+      213: 21300122
+    second: r2c_female_hair_beetle_ash_61
+  - first:
+      213: 21300124
+    second: r2c_female_hair_beetle_ash_62
+  - first:
+      213: 21300126
+    second: r2c_female_hair_beetle_ash_63
+  - first:
+      213: 21300128
+    second: r2c_female_hair_beetle_ash_64
+  - first:
+      213: 21300130
+    second: r2c_female_hair_beetle_ash_65
+  - first:
+      213: 21300132
+    second: r2c_female_hair_beetle_ash_66
+  - first:
+      213: 21300134
+    second: r2c_female_hair_beetle_ash_67
+  - first:
+      213: 21300136
+    second: r2c_female_hair_beetle_ash_68
+  - first:
+      213: 21300138
+    second: r2c_female_hair_beetle_ash_69
+  - first:
+      213: 21300140
+    second: r2c_female_hair_beetle_ash_70
+  - first:
+      213: 21300142
+    second: r2c_female_hair_beetle_ash_71
+  - first:
+      213: 21300144
+    second: r2c_female_hair_beetle_ash_72
+  - first:
+      213: 21300146
+    second: r2c_female_hair_beetle_ash_73
+  - first:
+      213: 21300148
+    second: r2c_female_hair_beetle_ash_74
+  - first:
+      213: 21300150
+    second: r2c_female_hair_beetle_ash_75
+  - first:
+      213: 21300152
+    second: r2c_female_hair_beetle_ash_76
+  - first:
+      213: 21300154
+    second: r2c_female_hair_beetle_ash_77
+  - first:
+      213: 21300156
+    second: r2c_female_hair_beetle_ash_78
+  - first:
+      213: 21300158
+    second: r2c_female_hair_beetle_ash_79
+  - first:
+      213: 21300160
+    second: r2c_female_hair_beetle_ash_80
+  - first:
+      213: 21300162
+    second: r2c_female_hair_beetle_ash_81
+  - first:
+      213: 21300164
+    second: r2c_female_hair_beetle_ash_82
+  - first:
+      213: 21300166
+    second: r2c_female_hair_beetle_ash_83
+  - first:
+      213: 21300168
+    second: r2c_female_hair_beetle_ash_84
+  - first:
+      213: 21300170
+    second: r2c_female_hair_beetle_ash_85
+  - first:
+      213: 21300172
+    second: r2c_female_hair_beetle_ash_86
+  - first:
+      213: 21300174
+    second: r2c_female_hair_beetle_ash_87
+  - first:
+      213: 21300176
+    second: r2c_female_hair_beetle_ash_88
+  - first:
+      213: 21300178
+    second: r2c_female_hair_beetle_ash_89
+  - first:
+      213: 21300180
+    second: r2c_female_hair_beetle_ash_90
+  - first:
+      213: 21300182
+    second: r2c_female_hair_beetle_ash_91
+  - first:
+      213: 21300184
+    second: r2c_female_hair_beetle_ash_92
+  - first:
+      213: 21300186
+    second: r2c_female_hair_beetle_ash_93
+  - first:
+      213: 21300188
+    second: r2c_female_hair_beetle_ash_94
+  - first:
+      213: 21300190
+    second: r2c_female_hair_beetle_ash_95
+  - first:
+      213: 21300192
+    second: r2c_female_hair_beetle_ash_96
+  - first:
+      213: 21300194
+    second: r2c_female_hair_beetle_ash_97
+  - first:
+      213: 21300196
+    second: r2c_female_hair_beetle_ash_98
+  - first:
+      213: 21300198
+    second: r2c_female_hair_beetle_ash_99
+  - first:
+      213: 21300200
+    second: r2c_female_hair_beetle_ash_100
+  - first:
+      213: 21300202
+    second: r2c_female_hair_beetle_ash_101
+  - first:
+      213: 21300204
+    second: r2c_female_hair_beetle_ash_102
+  - first:
+      213: 21300206
+    second: r2c_female_hair_beetle_ash_103
+  - first:
+      213: 21300208
+    second: r2c_female_hair_beetle_ash_104
+  - first:
+      213: 21300210
+    second: r2c_female_hair_beetle_ash_105
+  - first:
+      213: 21300212
+    second: r2c_female_hair_beetle_ash_106
+  - first:
+      213: 21300214
+    second: r2c_female_hair_beetle_ash_107
+  - first:
+      213: 21300216
+    second: r2c_female_hair_beetle_ash_108
+  - first:
+      213: 21300218
+    second: r2c_female_hair_beetle_ash_109
+  - first:
+      213: 21300220
+    second: r2c_female_hair_beetle_ash_110
+  - first:
+      213: 21300222
+    second: r2c_female_hair_beetle_ash_111
+  - first:
+      213: 21300224
+    second: r2c_female_hair_beetle_ash_112
+  - first:
+      213: 21300226
+    second: r2c_female_hair_beetle_ash_113
+  - first:
+      213: 21300228
+    second: r2c_female_hair_beetle_ash_114
+  - first:
+      213: 21300230
+    second: r2c_female_hair_beetle_ash_115
+  - first:
+      213: 21300232
+    second: r2c_female_hair_beetle_ash_116
+  - first:
+      213: 21300234
+    second: r2c_female_hair_beetle_ash_117
+  - first:
+      213: 21300236
+    second: r2c_female_hair_beetle_ash_118
+  - first:
+      213: 21300238
+    second: r2c_female_hair_beetle_ash_119
+  - first:
+      213: 21300240
+    second: r2c_female_hair_beetle_ash_120
+  - first:
+      213: 21300242
+    second: r2c_female_hair_beetle_ash_121
+  - first:
+      213: 21300244
+    second: r2c_female_hair_beetle_ash_122
+  - first:
+      213: 21300246
+    second: r2c_female_hair_beetle_ash_123
+  - first:
+      213: 21300248
+    second: r2c_female_hair_beetle_ash_124
+  - first:
+      213: 21300250
+    second: r2c_female_hair_beetle_ash_125
+  - first:
+      213: 21300252
+    second: r2c_female_hair_beetle_ash_126
+  - first:
+      213: 21300254
+    second: r2c_female_hair_beetle_ash_127
+  - first:
+      213: 21300256
+    second: r2c_female_hair_beetle_ash_128
+  - first:
+      213: 21300258
+    second: r2c_female_hair_beetle_ash_129
+  - first:
+      213: 21300260
+    second: r2c_female_hair_beetle_ash_130
+  - first:
+      213: 21300262
+    second: r2c_female_hair_beetle_ash_131
+  - first:
+      213: 21300264
+    second: r2c_female_hair_beetle_ash_132
+  - first:
+      213: 21300266
+    second: r2c_female_hair_beetle_ash_133
+  - first:
+      213: 21300268
+    second: r2c_female_hair_beetle_ash_134
+  - first:
+      213: 21300270
+    second: r2c_female_hair_beetle_ash_135
+  - first:
+      213: 21300272
+    second: r2c_female_hair_beetle_ash_136
+  - first:
+      213: 21300274
+    second: r2c_female_hair_beetle_ash_137
+  - first:
+      213: 21300276
+    second: r2c_female_hair_beetle_ash_138
+  - first:
+      213: 21300278
+    second: r2c_female_hair_beetle_ash_139
+  - first:
+      213: 21300280
+    second: r2c_female_hair_beetle_ash_140
+  - first:
+      213: 21300282
+    second: r2c_female_hair_beetle_ash_141
+  - first:
+      213: 21300284
+    second: r2c_female_hair_beetle_ash_142
+  - first:
+      213: 21300286
+    second: r2c_female_hair_beetle_ash_143
+  - first:
+      213: 21300288
+    second: r2c_female_hair_beetle_ash_144
+  - first:
+      213: 21300290
+    second: r2c_female_hair_beetle_ash_145
+  - first:
+      213: 21300292
+    second: r2c_female_hair_beetle_ash_146
+  - first:
+      213: 21300294
+    second: r2c_female_hair_beetle_ash_147
+  - first:
+      213: 21300296
+    second: r2c_female_hair_beetle_ash_148
+  - first:
+      213: 21300298
+    second: r2c_female_hair_beetle_ash_149
+  - first:
+      213: 21300300
+    second: r2c_female_hair_beetle_ash_150
+  - first:
+      213: 21300302
+    second: r2c_female_hair_beetle_ash_151
+  - first:
+      213: 21300304
+    second: r2c_female_hair_beetle_ash_152
+  - first:
+      213: 21300306
+    second: r2c_female_hair_beetle_ash_153
+  - first:
+      213: 21300308
+    second: r2c_female_hair_beetle_ash_154
+  - first:
+      213: 21300310
+    second: r2c_female_hair_beetle_ash_155
+  - first:
+      213: 21300312
+    second: r2c_female_hair_beetle_ash_156
+  - first:
+      213: 21300314
+    second: r2c_female_hair_beetle_ash_157
+  - first:
+      213: 21300316
+    second: r2c_female_hair_beetle_ash_158
+  - first:
+      213: 21300318
+    second: r2c_female_hair_beetle_ash_159
+  - first:
+      213: 21300320
+    second: r2c_female_hair_beetle_ash_160
+  - first:
+      213: 21300322
+    second: r2c_female_hair_beetle_ash_161
+  - first:
+      213: 21300324
+    second: r2c_female_hair_beetle_ash_162
+  - first:
+      213: 21300326
+    second: r2c_female_hair_beetle_ash_163
+  - first:
+      213: 21300328
+    second: r2c_female_hair_beetle_ash_164
+  - first:
+      213: 21300330
+    second: r2c_female_hair_beetle_ash_165
+  - first:
+      213: 21300332
+    second: r2c_female_hair_beetle_ash_166
+  - first:
+      213: 21300334
+    second: r2c_female_hair_beetle_ash_167
+  - first:
+      213: 21300336
+    second: r2c_female_hair_beetle_ash_168
+  - first:
+      213: 21300338
+    second: r2c_female_hair_beetle_ash_169
+  - first:
+      213: 21300340
+    second: r2c_female_hair_beetle_ash_170
+  - first:
+      213: 21300342
+    second: r2c_female_hair_beetle_ash_171
+  - first:
+      213: 21300344
+    second: r2c_female_hair_beetle_ash_172
+  - first:
+      213: 21300346
+    second: r2c_female_hair_beetle_ash_173
+  - first:
+      213: 21300348
+    second: r2c_female_hair_beetle_ash_174
+  - first:
+      213: 21300350
+    second: r2c_female_hair_beetle_ash_175
+  - first:
+      213: 21300352
+    second: r2c_female_hair_beetle_ash_176
+  - first:
+      213: 21300354
+    second: r2c_female_hair_beetle_ash_177
+  - first:
+      213: 21300356
+    second: r2c_female_hair_beetle_ash_178
+  - first:
+      213: 21300358
+    second: r2c_female_hair_beetle_ash_179
+  - first:
+      213: 21300360
+    second: r2c_female_hair_beetle_ash_180
+  - first:
+      213: 21300362
+    second: r2c_female_hair_beetle_ash_181
+  - first:
+      213: 21300364
+    second: r2c_female_hair_beetle_ash_182
+  - first:
+      213: 21300366
+    second: r2c_female_hair_beetle_ash_183
+  - first:
+      213: 21300368
+    second: r2c_female_hair_beetle_ash_184
+  - first:
+      213: 21300370
+    second: r2c_female_hair_beetle_ash_185
+  - first:
+      213: 21300372
+    second: r2c_female_hair_beetle_ash_186
+  - first:
+      213: 21300374
+    second: r2c_female_hair_beetle_ash_187
+  - first:
+      213: 21300376
+    second: r2c_female_hair_beetle_ash_188
+  - first:
+      213: 21300378
+    second: r2c_female_hair_beetle_ash_189
+  - first:
+      213: 21300380
+    second: r2c_female_hair_beetle_ash_190
+  - first:
+      213: 21300382
+    second: r2c_female_hair_beetle_ash_191
+  - first:
+      213: 21300384
+    second: r2c_female_hair_beetle_ash_192
+  - first:
+      213: 21300386
+    second: r2c_female_hair_beetle_ash_193
+  - first:
+      213: 21300388
+    second: r2c_female_hair_beetle_ash_194
+  - first:
+      213: 21300390
+    second: r2c_female_hair_beetle_ash_195
+  - first:
+      213: 21300392
+    second: r2c_female_hair_beetle_ash_196
+  - first:
+      213: 21300394
+    second: r2c_female_hair_beetle_ash_197
+  - first:
+      213: 21300396
+    second: r2c_female_hair_beetle_ash_198
+  - first:
+      213: 21300398
+    second: r2c_female_hair_beetle_ash_199
+  - first:
+      213: 21300400
+    second: r2c_female_hair_beetle_ash_200
+  - first:
+      213: 21300402
+    second: r2c_female_hair_beetle_ash_201
+  - first:
+      213: 21300404
+    second: r2c_female_hair_beetle_ash_202
+  - first:
+      213: 21300406
+    second: r2c_female_hair_beetle_ash_203
+  - first:
+      213: 21300408
+    second: r2c_female_hair_beetle_ash_204
+  - first:
+      213: 21300410
+    second: r2c_female_hair_beetle_ash_205
+  - first:
+      213: 21300412
+    second: r2c_female_hair_beetle_ash_206
+  - first:
+      213: 21300414
+    second: r2c_female_hair_beetle_ash_207
+  - first:
+      213: 21300416
+    second: r2c_female_hair_beetle_ash_208
+  - first:
+      213: 21300418
+    second: r2c_female_hair_beetle_ash_209
+  - first:
+      213: 21300420
+    second: r2c_female_hair_beetle_ash_210
+  - first:
+      213: 21300422
+    second: r2c_female_hair_beetle_ash_211
+  - first:
+      213: 21300424
+    second: r2c_female_hair_beetle_ash_212
+  - first:
+      213: 21300426
+    second: r2c_female_hair_beetle_ash_213
+  - first:
+      213: 21300428
+    second: r2c_female_hair_beetle_ash_214
+  - first:
+      213: 21300430
+    second: r2c_female_hair_beetle_ash_215
+  - first:
+      213: 21300432
+    second: r2c_female_hair_beetle_ash_216
+  - first:
+      213: 21300434
+    second: r2c_female_hair_beetle_ash_217
+  - first:
+      213: 21300436
+    second: r2c_female_hair_beetle_ash_218
+  - first:
+      213: 21300438
+    second: r2c_female_hair_beetle_ash_219
+  - first:
+      213: 21300440
+    second: r2c_female_hair_beetle_ash_220
+  - first:
+      213: 21300442
+    second: r2c_female_hair_beetle_ash_221
+  - first:
+      213: 21300444
+    second: r2c_female_hair_beetle_ash_222
+  - first:
+      213: 21300446
+    second: r2c_female_hair_beetle_ash_223
+  - first:
+      213: 21300448
+    second: r2c_female_hair_beetle_ash_224
+  - first:
+      213: 21300450
+    second: r2c_female_hair_beetle_ash_225
+  - first:
+      213: 21300452
+    second: r2c_female_hair_beetle_ash_226
+  - first:
+      213: 21300454
+    second: r2c_female_hair_beetle_ash_227
+  - first:
+      213: 21300456
+    second: r2c_female_hair_beetle_ash_228
+  - first:
+      213: 21300458
+    second: r2c_female_hair_beetle_ash_229
+  - first:
+      213: 21300460
+    second: r2c_female_hair_beetle_ash_230
+  - first:
+      213: 21300462
+    second: r2c_female_hair_beetle_ash_231
+  - first:
+      213: 21300464
+    second: r2c_female_hair_beetle_ash_232
+  - first:
+      213: 21300466
+    second: r2c_female_hair_beetle_ash_233
+  - first:
+      213: 21300468
+    second: r2c_female_hair_beetle_ash_234
+  - first:
+      213: 21300470
+    second: r2c_female_hair_beetle_ash_235
+  - first:
+      213: 21300472
+    second: r2c_female_hair_beetle_ash_236
+  - first:
+      213: 21300474
+    second: r2c_female_hair_beetle_ash_237
+  - first:
+      213: 21300476
+    second: r2c_female_hair_beetle_ash_238
+  - first:
+      213: 21300478
+    second: r2c_female_hair_beetle_ash_239
+  - first:
+      213: 21300480
+    second: r2c_female_hair_beetle_ash_240
+  - first:
+      213: 21300482
+    second: r2c_female_hair_beetle_ash_241
+  - first:
+      213: 21300484
+    second: r2c_female_hair_beetle_ash_242
+  - first:
+      213: 21300486
+    second: r2c_female_hair_beetle_ash_243
+  - first:
+      213: 21300488
+    second: r2c_female_hair_beetle_ash_244
+  - first:
+      213: 21300490
+    second: r2c_female_hair_beetle_ash_245
+  - first:
+      213: 21300492
+    second: r2c_female_hair_beetle_ash_246
+  - first:
+      213: 21300494
+    second: r2c_female_hair_beetle_ash_247
+  - first:
+      213: 21300496
+    second: r2c_female_hair_beetle_ash_248
+  - first:
+      213: 21300498
+    second: r2c_female_hair_beetle_ash_249
+  - first:
+      213: 21300500
+    second: r2c_female_hair_beetle_ash_250
+  - first:
+      213: 21300502
+    second: r2c_female_hair_beetle_ash_251
+  - first:
+      213: 21300504
+    second: r2c_female_hair_beetle_ash_252
+  - first:
+      213: 21300506
+    second: r2c_female_hair_beetle_ash_253
+  - first:
+      213: 21300508
+    second: r2c_female_hair_beetle_ash_254
+  - first:
+      213: 21300510
+    second: r2c_female_hair_beetle_ash_255
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ed983574941d541a1d4b2d389227b8
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af2d27b4b52d724d9fa5d4411b9296c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb83fc681514ab247a1987ef56969658
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3304139b6d63c9942a836985a7aab995
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d70502e7b41564db53a367645ea17e
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bc4c93fac8a784694fd8eda9de9dcb
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2daa281e32983447b05a9749c7251c0
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5c47977af4e3341ba4adc3fdcc63cf
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21c1e65ebf49224e904fa2456368c79
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e8e2ec95ca28147a6f12ab9fdb95c2
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898b60dc604db594e804cfc2650eb411
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b82531b1d76cd7469aae660bf315a52
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d7ae21783838e4b89b2b94fbb656ea
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40944c89766967d4a82c5462214c1b99
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a1b5fe6f4507c438bea6b6c6a55d61
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fe844ed9dfe4e44806db2685a64615
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac5d332a1ca44645adc7e1eacb0b92f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef23fbc4b42347488cfe6f4251b972a
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73a11dd6135a464183db2dee4673b43
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf1d3988420d91478d53af9b25b9bff
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a08d7f6d26a9ee4182e1a24a43b54c6
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a58a08959ad284c837bf44e9bb34ce
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3780e57cd9700d74db0518468f5371e0
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1f6b024129dc640ba3606496d68a02
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b56e254a69ff848806a2f4e500b294
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bc0b253cf826842a3a6566493defc1
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964bb794a4fce2f499e247e7ae8efbb1
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4817bdd346173114e95110e1fe4e1371
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02aaa7398bbd9a4d8c81c3b25e317a1
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286559947d7004642a33c0651810ab59
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9882cd91f0f3c64a8ffb082e888fb28
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e04af94fe4e114e971e2d3490d4b81
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0f4a90ccab722479c71401b2d729f7
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76fd95218195604e918ff8ca79fc65b
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aa9de0c79e0ec4f834e1c08aa5648d
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1d6d5705d9bfa4b893347a5c38f4a1
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d67db82e70ebe8438c42712f0b705a5
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5586c35907581f4cabaa13ce6d5f44d
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f9d67c719eb3c4dab9cd90f8f7d8a8
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20252f869d5abdb43a6176920f108ac0
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5250c3daac2028e4eb5e635410f451da
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0f8339b25aaf045b8466bed0f511cf
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bb4d2cdc846cf4da210b9b2379ff0f
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f78e6d44d7f89a40803949fb2f7b62e
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e766e8b7a824948806a0f31bec9015
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c2f56970aa42849a768f8dd257d09e
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2792d13fbfd404542af5d451038a9286
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c05b72f6e62654fafc6d47199a70ca
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7faf846ebbb17240969b4f2f5c1e73e
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d57fe6ffdcbc846a840f3efd670cd0
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4677a52a162b845b789a0a23484119
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797ae2cb27145af48ab96a1ec7d36920
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e3c92f7e0297347b250decf3375d40
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0b31aad67af814eb5a08625921dc44
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227e183b4c73355499099adfaac7ecbd
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cad05fa586a1d45b40bb8edfdc25bd
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fde751450c33f4f87983d3d0e06ab9
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5174adacec607f647b8821882bc20f54
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e877f429460913438bd6a4f045b8096
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb6de0571f1e89449f4fcd6196efd34
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2c9e5a18e2a3244be05337114fece3
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43af9676d79288458d429857cf73213
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c40570f565d0544a478afe697e3ce2
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6cd53405848f4428e9453056d1a618
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7512ca444d542be40a589b82afe41769
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e27c38f75e8ae4cab06eb7746130f4
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c85e628cde06943bc5ad99ff98d516
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666773a28a8c2b04b9c1892600ed42c7
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ddb38632abb134dad2db2f3bb6658c
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baefef4940394a5428e6a632d255d75d
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5011de35395756341a568f63902ad5ba
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd7fcb5a1d9f234fb545e21a8fbd98e
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997f50cc5f5d9f749bb24e99a9a51ce0
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62713d6071daa9488b0769902020377
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d5c6e07a40db745a1d15aad2888fd6
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d548cc9a46bea484baa4adc6b5ee9eef
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997fdba72a41ea04d8291ef331227157
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71667fad8f1b9244a1bba8f614840f7
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659d149e115391e4c91c486ddad79be1
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e37779f095bdb44bbf643b9e45df671
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebec7b09a6ed06419ebcbff1d34f315
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a28320038ef8a4a8133ae336228a01
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1afd1702938187408a5d3c779be10dd
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71e5fa4cd0cf0f418f25d19433e7f68
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdc281f530f40a44b47363b9b53e47a
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3c9b8e09d2f9c43897c4884e306646
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fceaf716c684fa44812f5c4ccf87df7
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5805261de80424ab76600f2920f2e8
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f14fd07da7cb5a47b7df4d11011adcf
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81388fceacd31794ea0a44fa76ba162e
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259f35d626a5dcb41a455ac7bc9b8f09
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b04afa671674f546a53a5a30f24775f
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114d084e36307274eafe84cd86e8dc7e
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f5ad47a54c7a548b67d9cf9c4eb9bc
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0405fe10775fd4f813c68b1dc695ae
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0db99ffa2570b5469554a337968ebf0
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf2e0aad621fe949888bf55371c31d3
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d8b88872e76f44caf057dc076a33be
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5350016bd56e73f409afeaf40660e614
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c67759e6946104288ff9699a16723e
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911583679f0a87c498e52011df13d1be
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f85cb8086f12949bef47818d65023e
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18398d55097ca045ae8199a3137ca93
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99207dd63a6b8674c8b563d192b61e2e
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c24ed766f5669f46b6e944ad2de03b3
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466fc0b467adec646a6c24a390ab11fa
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee29b715714ee44b8c02cf0954a9cb0
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e73844d09cb7640b0f0b2e0eebcf56
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e247d27436100479a20da78df6abe2
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfe720de5ac14641992c4442b414ab6
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bccbd3eb3ce8542823d5f4b94a6d1d
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d52d64e93736d143aa1c31fba8b6487
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d50b03a672bcd4184d44c3a3d6743b
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae003e6ace022a94897946a09d8bc3c6
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c385edb9246a034f9b419a144353201
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd90809a5c08164fb845f0f9f75c438
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbb0d7fb13aba24793ea944f5d96cc7
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9eff8cb0b6132946bebe1c17dd89f38
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16782ae3ece369f4baba964071269c7b
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62179d0869892744b20a6876dbcc70e
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d02f3c4bc2e2343acfd7ed342297ac
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27737c33d7614a64ab4cd76b64e3a605
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6686690e0b56bf4b9f68bb3f05a2882
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d590311abf8abad488d1dd9e46c5a3ac
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d6997d9a931a64596e19dbd6121a25
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd97e3603176914aaea9c92b3b00e6a
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a93dbf4d39aed44abfda1b8e2c118cd
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7d2c8269d1116419023a617f8041e5
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89eb6ffdbfa2f34097e5d11f77131c6
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5913adc08c7c74d81d20cce5eea543
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709efa67e1d510642bef7f8a76b22c0c
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dbc067ef359b241a0d5ef296b02208
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2895da6b13571f49b78ad0b2a69f50a
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9182dd6f6f6ee441b42b4de26859359
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2ca415d5ff7744cbccc07af6f2fcc1
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aa3736cd6917d4d8136bb636166624
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dba40d5aee546a4cae8abdf63e9ad97
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2756d5c0e021c443b99b9ed82dfbd61
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5cf5c2e3e47a542961bd91715f8300
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a795816362c657446b40a4a79713b896
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a66e119e5392074396656fe0d6472b4
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5efe3d7ab4bdc4a86798bee5bad799
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc87c9f15f4e4b43b43483944d2f81f
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c6f98e970a85e479977f6c2fbf4caf
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117e62a2a12bcc144aef01c702d7cff7
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3baff26c6a68c64bb613dfa23784318
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a141e2864bbe0e44597c8d9b7d101538
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78b7a3aecc8ced4f80a0c5b0e695497
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b898aab97bb936645be67555e995ecc2
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb563f6a22bf6744a1dae9bd06e8a6c
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0667432adc9df5745ad0d0f0e3a249ef
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d26d45ac878e343a3bde752143bab5
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f93648fe9069842b51f02aac1f9527
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d674f9a9fbdad074796e4d3246cbc781
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1a0115bdc858c42b48fc0d810d07f6
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eed118461b3ba547bfb65173323e531
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d25bbc97572b9c4d9e980e8dee9efd7
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c962693b43c16074c85a7aedc8b6bad3
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5691f89a0a0bb4586970ba2f027832
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b37374daea0b314cbd2a0b902e96277
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c8c1776a0d9e44995c2bdecf6bf8b8
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe2f51987bd97f4985793acd49c0bd7
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ab7ad9772a379489f2e6052647f7b3
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf22ff785de4f54ca66b0ca6f9ddd55
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fab7eaacfdc824d9e5523899af152d
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a550de1f063a9a49ba8784cf175f7e8
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47802c7cf18f86459e095a347ac7435
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6508ded8c3b6f41b601422c6a61d57
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee407b4ea47d4ce4dae99249692f48b2
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16c86ed73165d549bbb213c07de9fc1
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9530b6e5613954d9473812045fbf3a
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5248f99511aa9964f81b4b99c0bd647d
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cad3451a19de2d4984cd5051a4d036f
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f063a51b0b524e04f94e9e319d013c26
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606e50b09abc7a04cacc8f8b10f083ce
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2869990cb245f64ebd9630d349d2415
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7329cf375c2d65e4d97251d9a8d65156
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6469935e317f2964aaa1a3c55b5f41b6
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640b5bbbb15b9284d88150f124a61498
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c727f232053c8f49919e9407a94d1be
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc890eb82806ef469b87b2403edb9a3
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbbd81772e6aec4097fb97aaecb5b81
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f8fee364179a6439eda6d26132e463
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1de3bcb9e1e32245bdb51efec7f9dea
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea031fd2caaefa40bfdd96fed1ccfe7
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d953b7a2b564a8f4a9f33eb7eb65cb0f
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4673fb2b018b3b4dbad99ebd10f5300
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ede8d6d5deddc844a51f93b3dc24fd0
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edca24020f1048c4fa6109a633e9c322
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be25d9380ec9ad445b38fc03bda6ebc2
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324319c2d3a578f4cb10b08c13b47165
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3031555e562025141beecc2ea8ff4e57
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b0052f672b3a94cb3c22be090139c9
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834d8a40204a1e04d8f2e2e27f3f9f47
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d25c756e2f341149b1b2e2d0b419223
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56ad7c27de1b8e49b73342b979f7d7d
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f26bc49994be1e448da6b8724f9760e
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2024c08518ac4438df107f3004503a
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4698cf9cadf58c14cb258c20c47f009a
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4bfc8fa7284e44b8c58e6576e2085e
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd22711519e05e848b1f1d9a8edf3c37
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9611664a17bb8499ce6f8185ee9159
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba65fb7c038e204fa416c63f81b8271
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7146d403c310fdb40afd4f68d8a751bd
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938f91cdc3ede874192137313f4875ca
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_205
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cf3041bc9698648846bdc49bb327ef
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e5a97386b3f70488cb8af41a9707cc
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccc0648f2ce199458cdbaf9d3aff743
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2565cc1ec7aa834b927e58ec73cdb35
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fa30291365bef48bcf7240f5e91d9d
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf33f31fa4208840b244e5d3db91686
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1807b2a759d689d4baecef3d360ed23d
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f710e088e9c24843bda8d9f8823414a
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9716e30e88e1174183827a09eef8918
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6484622a6a200743b4a90b3db05bbf7
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_215
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acbc3f95691b5d4faa730715ec983c6
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_216
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861f646f942547f459c25f5cd6895a75
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_217
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05253b5d685dad546a19e960b731d0a5
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_218
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8d0a8157396224d9dc454de4e872f2
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_219
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da60a2cd00d4fe44a3d864b1f951176
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_220
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f36cbcf21ee6e440acc9c477ad5b296
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_221
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e46f02e0e5f95c4d97ed3ae192a6ba8
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_222
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009e6903ba4ac494b838bf9b172a0db1
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_223
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b012f160d751842ba13254e5292e07
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe9dfd2c0166f14b89b1e26740bf464
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82996359e1f15447b0a5e4a06266fea
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6f7bb403b33c944a8fa168e7f5adc6
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_227
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e5c7b5c601c03439bf1d06e02293c0
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce88c40ab715d74fa2e6e990d53f59c
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_229
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2e5ef6b18ed764883da8a451db4347
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab138d68b86ce3488e70ad4d2fcfffb
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d051189499ee26499b46e56e199df32
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_232
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2734c831c51959a43b5bd4662af81be6
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_233
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcfd6fc34a5b4b4696d94aa9641f2b4
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_234
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e520adc3239630438e526b6d3772780
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_235
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde4b1214743548449c4ee24d5c084e2
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_236
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35db9d2024520349a13d364d20d70e7
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_237
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf452a2137fd9694bace55b313259a19
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_238
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b4b012602df394fa137229efdb1dc2
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_239
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079ff066083a6f747978f56cf509fd1c
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7b5d15f7481e54db185a824af8ae95
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0cd730b7fe6d545982117227ea017a
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7005d02a79a12804f90d8eef8dda699f
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a44a5c89ee5044b965ddf0f2cc25b7
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca8ec0821ce68f45a37f01e100c0b68
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40449ae6fbe68e48be9411d83c9a755
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1685b8b0da083a438e6a8e7400e2ec6
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_247
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d944ba07a725994dab43c65bccc6c84
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_248
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b54647cb23dfb49afe6dfc4caa34c9
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4847c87dce5c1a446aab3674ce71d3e0
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_250
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2049bfa21a1dd584180f232575ca1972
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_251
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3c45717a8f37c4885c154491c8c1c6
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_252
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaade733941e1d4ca5ef0bbb97ae33c
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_253
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a049984bfa9984584d4d73fbf447e7
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_254
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67908dbd83ee65144a526d6bed01f705
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2c_female_hair_beetle_ash_255
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0e1e7248a4bb145b02319861653d62
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      r2c_female_hair_beetle_ash_0: 21300000
+      r2c_female_hair_beetle_ash_1: 21300002
+      r2c_female_hair_beetle_ash_10: 21300020
+      r2c_female_hair_beetle_ash_100: 21300200
+      r2c_female_hair_beetle_ash_101: 21300202
+      r2c_female_hair_beetle_ash_102: 21300204
+      r2c_female_hair_beetle_ash_103: 21300206
+      r2c_female_hair_beetle_ash_104: 21300208
+      r2c_female_hair_beetle_ash_105: 21300210
+      r2c_female_hair_beetle_ash_106: 21300212
+      r2c_female_hair_beetle_ash_107: 21300214
+      r2c_female_hair_beetle_ash_108: 21300216
+      r2c_female_hair_beetle_ash_109: 21300218
+      r2c_female_hair_beetle_ash_11: 21300022
+      r2c_female_hair_beetle_ash_110: 21300220
+      r2c_female_hair_beetle_ash_111: 21300222
+      r2c_female_hair_beetle_ash_112: 21300224
+      r2c_female_hair_beetle_ash_113: 21300226
+      r2c_female_hair_beetle_ash_114: 21300228
+      r2c_female_hair_beetle_ash_115: 21300230
+      r2c_female_hair_beetle_ash_116: 21300232
+      r2c_female_hair_beetle_ash_117: 21300234
+      r2c_female_hair_beetle_ash_118: 21300236
+      r2c_female_hair_beetle_ash_119: 21300238
+      r2c_female_hair_beetle_ash_12: 21300024
+      r2c_female_hair_beetle_ash_120: 21300240
+      r2c_female_hair_beetle_ash_121: 21300242
+      r2c_female_hair_beetle_ash_122: 21300244
+      r2c_female_hair_beetle_ash_123: 21300246
+      r2c_female_hair_beetle_ash_124: 21300248
+      r2c_female_hair_beetle_ash_125: 21300250
+      r2c_female_hair_beetle_ash_126: 21300252
+      r2c_female_hair_beetle_ash_127: 21300254
+      r2c_female_hair_beetle_ash_128: 21300256
+      r2c_female_hair_beetle_ash_129: 21300258
+      r2c_female_hair_beetle_ash_13: 21300026
+      r2c_female_hair_beetle_ash_130: 21300260
+      r2c_female_hair_beetle_ash_131: 21300262
+      r2c_female_hair_beetle_ash_132: 21300264
+      r2c_female_hair_beetle_ash_133: 21300266
+      r2c_female_hair_beetle_ash_134: 21300268
+      r2c_female_hair_beetle_ash_135: 21300270
+      r2c_female_hair_beetle_ash_136: 21300272
+      r2c_female_hair_beetle_ash_137: 21300274
+      r2c_female_hair_beetle_ash_138: 21300276
+      r2c_female_hair_beetle_ash_139: 21300278
+      r2c_female_hair_beetle_ash_14: 21300028
+      r2c_female_hair_beetle_ash_140: 21300280
+      r2c_female_hair_beetle_ash_141: 21300282
+      r2c_female_hair_beetle_ash_142: 21300284
+      r2c_female_hair_beetle_ash_143: 21300286
+      r2c_female_hair_beetle_ash_144: 21300288
+      r2c_female_hair_beetle_ash_145: 21300290
+      r2c_female_hair_beetle_ash_146: 21300292
+      r2c_female_hair_beetle_ash_147: 21300294
+      r2c_female_hair_beetle_ash_148: 21300296
+      r2c_female_hair_beetle_ash_149: 21300298
+      r2c_female_hair_beetle_ash_15: 21300030
+      r2c_female_hair_beetle_ash_150: 21300300
+      r2c_female_hair_beetle_ash_151: 21300302
+      r2c_female_hair_beetle_ash_152: 21300304
+      r2c_female_hair_beetle_ash_153: 21300306
+      r2c_female_hair_beetle_ash_154: 21300308
+      r2c_female_hair_beetle_ash_155: 21300310
+      r2c_female_hair_beetle_ash_156: 21300312
+      r2c_female_hair_beetle_ash_157: 21300314
+      r2c_female_hair_beetle_ash_158: 21300316
+      r2c_female_hair_beetle_ash_159: 21300318
+      r2c_female_hair_beetle_ash_16: 21300032
+      r2c_female_hair_beetle_ash_160: 21300320
+      r2c_female_hair_beetle_ash_161: 21300322
+      r2c_female_hair_beetle_ash_162: 21300324
+      r2c_female_hair_beetle_ash_163: 21300326
+      r2c_female_hair_beetle_ash_164: 21300328
+      r2c_female_hair_beetle_ash_165: 21300330
+      r2c_female_hair_beetle_ash_166: 21300332
+      r2c_female_hair_beetle_ash_167: 21300334
+      r2c_female_hair_beetle_ash_168: 21300336
+      r2c_female_hair_beetle_ash_169: 21300338
+      r2c_female_hair_beetle_ash_17: 21300034
+      r2c_female_hair_beetle_ash_170: 21300340
+      r2c_female_hair_beetle_ash_171: 21300342
+      r2c_female_hair_beetle_ash_172: 21300344
+      r2c_female_hair_beetle_ash_173: 21300346
+      r2c_female_hair_beetle_ash_174: 21300348
+      r2c_female_hair_beetle_ash_175: 21300350
+      r2c_female_hair_beetle_ash_176: 21300352
+      r2c_female_hair_beetle_ash_177: 21300354
+      r2c_female_hair_beetle_ash_178: 21300356
+      r2c_female_hair_beetle_ash_179: 21300358
+      r2c_female_hair_beetle_ash_18: 21300036
+      r2c_female_hair_beetle_ash_180: 21300360
+      r2c_female_hair_beetle_ash_181: 21300362
+      r2c_female_hair_beetle_ash_182: 21300364
+      r2c_female_hair_beetle_ash_183: 21300366
+      r2c_female_hair_beetle_ash_184: 21300368
+      r2c_female_hair_beetle_ash_185: 21300370
+      r2c_female_hair_beetle_ash_186: 21300372
+      r2c_female_hair_beetle_ash_187: 21300374
+      r2c_female_hair_beetle_ash_188: 21300376
+      r2c_female_hair_beetle_ash_189: 21300378
+      r2c_female_hair_beetle_ash_19: 21300038
+      r2c_female_hair_beetle_ash_190: 21300380
+      r2c_female_hair_beetle_ash_191: 21300382
+      r2c_female_hair_beetle_ash_192: 21300384
+      r2c_female_hair_beetle_ash_193: 21300386
+      r2c_female_hair_beetle_ash_194: 21300388
+      r2c_female_hair_beetle_ash_195: 21300390
+      r2c_female_hair_beetle_ash_196: 21300392
+      r2c_female_hair_beetle_ash_197: 21300394
+      r2c_female_hair_beetle_ash_198: 21300396
+      r2c_female_hair_beetle_ash_199: 21300398
+      r2c_female_hair_beetle_ash_2: 21300004
+      r2c_female_hair_beetle_ash_20: 21300040
+      r2c_female_hair_beetle_ash_200: 21300400
+      r2c_female_hair_beetle_ash_201: 21300402
+      r2c_female_hair_beetle_ash_202: 21300404
+      r2c_female_hair_beetle_ash_203: 21300406
+      r2c_female_hair_beetle_ash_204: 21300408
+      r2c_female_hair_beetle_ash_205: 21300410
+      r2c_female_hair_beetle_ash_206: 21300412
+      r2c_female_hair_beetle_ash_207: 21300414
+      r2c_female_hair_beetle_ash_208: 21300416
+      r2c_female_hair_beetle_ash_209: 21300418
+      r2c_female_hair_beetle_ash_21: 21300042
+      r2c_female_hair_beetle_ash_210: 21300420
+      r2c_female_hair_beetle_ash_211: 21300422
+      r2c_female_hair_beetle_ash_212: 21300424
+      r2c_female_hair_beetle_ash_213: 21300426
+      r2c_female_hair_beetle_ash_214: 21300428
+      r2c_female_hair_beetle_ash_215: 21300430
+      r2c_female_hair_beetle_ash_216: 21300432
+      r2c_female_hair_beetle_ash_217: 21300434
+      r2c_female_hair_beetle_ash_218: 21300436
+      r2c_female_hair_beetle_ash_219: 21300438
+      r2c_female_hair_beetle_ash_22: 21300044
+      r2c_female_hair_beetle_ash_220: 21300440
+      r2c_female_hair_beetle_ash_221: 21300442
+      r2c_female_hair_beetle_ash_222: 21300444
+      r2c_female_hair_beetle_ash_223: 21300446
+      r2c_female_hair_beetle_ash_224: 21300448
+      r2c_female_hair_beetle_ash_225: 21300450
+      r2c_female_hair_beetle_ash_226: 21300452
+      r2c_female_hair_beetle_ash_227: 21300454
+      r2c_female_hair_beetle_ash_228: 21300456
+      r2c_female_hair_beetle_ash_229: 21300458
+      r2c_female_hair_beetle_ash_23: 21300046
+      r2c_female_hair_beetle_ash_230: 21300460
+      r2c_female_hair_beetle_ash_231: 21300462
+      r2c_female_hair_beetle_ash_232: 21300464
+      r2c_female_hair_beetle_ash_233: 21300466
+      r2c_female_hair_beetle_ash_234: 21300468
+      r2c_female_hair_beetle_ash_235: 21300470
+      r2c_female_hair_beetle_ash_236: 21300472
+      r2c_female_hair_beetle_ash_237: 21300474
+      r2c_female_hair_beetle_ash_238: 21300476
+      r2c_female_hair_beetle_ash_239: 21300478
+      r2c_female_hair_beetle_ash_24: 21300048
+      r2c_female_hair_beetle_ash_240: 21300480
+      r2c_female_hair_beetle_ash_241: 21300482
+      r2c_female_hair_beetle_ash_242: 21300484
+      r2c_female_hair_beetle_ash_243: 21300486
+      r2c_female_hair_beetle_ash_244: 21300488
+      r2c_female_hair_beetle_ash_245: 21300490
+      r2c_female_hair_beetle_ash_246: 21300492
+      r2c_female_hair_beetle_ash_247: 21300494
+      r2c_female_hair_beetle_ash_248: 21300496
+      r2c_female_hair_beetle_ash_249: 21300498
+      r2c_female_hair_beetle_ash_25: 21300050
+      r2c_female_hair_beetle_ash_250: 21300500
+      r2c_female_hair_beetle_ash_251: 21300502
+      r2c_female_hair_beetle_ash_252: 21300504
+      r2c_female_hair_beetle_ash_253: 21300506
+      r2c_female_hair_beetle_ash_254: 21300508
+      r2c_female_hair_beetle_ash_255: 21300510
+      r2c_female_hair_beetle_ash_26: 21300052
+      r2c_female_hair_beetle_ash_27: 21300054
+      r2c_female_hair_beetle_ash_28: 21300056
+      r2c_female_hair_beetle_ash_29: 21300058
+      r2c_female_hair_beetle_ash_3: 21300006
+      r2c_female_hair_beetle_ash_30: 21300060
+      r2c_female_hair_beetle_ash_31: 21300062
+      r2c_female_hair_beetle_ash_32: 21300064
+      r2c_female_hair_beetle_ash_33: 21300066
+      r2c_female_hair_beetle_ash_34: 21300068
+      r2c_female_hair_beetle_ash_35: 21300070
+      r2c_female_hair_beetle_ash_36: 21300072
+      r2c_female_hair_beetle_ash_37: 21300074
+      r2c_female_hair_beetle_ash_38: 21300076
+      r2c_female_hair_beetle_ash_39: 21300078
+      r2c_female_hair_beetle_ash_4: 21300008
+      r2c_female_hair_beetle_ash_40: 21300080
+      r2c_female_hair_beetle_ash_41: 21300082
+      r2c_female_hair_beetle_ash_42: 21300084
+      r2c_female_hair_beetle_ash_43: 21300086
+      r2c_female_hair_beetle_ash_44: 21300088
+      r2c_female_hair_beetle_ash_45: 21300090
+      r2c_female_hair_beetle_ash_46: 21300092
+      r2c_female_hair_beetle_ash_47: 21300094
+      r2c_female_hair_beetle_ash_48: 21300096
+      r2c_female_hair_beetle_ash_49: 21300098
+      r2c_female_hair_beetle_ash_5: 21300010
+      r2c_female_hair_beetle_ash_50: 21300100
+      r2c_female_hair_beetle_ash_51: 21300102
+      r2c_female_hair_beetle_ash_52: 21300104
+      r2c_female_hair_beetle_ash_53: 21300106
+      r2c_female_hair_beetle_ash_54: 21300108
+      r2c_female_hair_beetle_ash_55: 21300110
+      r2c_female_hair_beetle_ash_56: 21300112
+      r2c_female_hair_beetle_ash_57: 21300114
+      r2c_female_hair_beetle_ash_58: 21300116
+      r2c_female_hair_beetle_ash_59: 21300118
+      r2c_female_hair_beetle_ash_6: 21300012
+      r2c_female_hair_beetle_ash_60: 21300120
+      r2c_female_hair_beetle_ash_61: 21300122
+      r2c_female_hair_beetle_ash_62: 21300124
+      r2c_female_hair_beetle_ash_63: 21300126
+      r2c_female_hair_beetle_ash_64: 21300128
+      r2c_female_hair_beetle_ash_65: 21300130
+      r2c_female_hair_beetle_ash_66: 21300132
+      r2c_female_hair_beetle_ash_67: 21300134
+      r2c_female_hair_beetle_ash_68: 21300136
+      r2c_female_hair_beetle_ash_69: 21300138
+      r2c_female_hair_beetle_ash_7: 21300014
+      r2c_female_hair_beetle_ash_70: 21300140
+      r2c_female_hair_beetle_ash_71: 21300142
+      r2c_female_hair_beetle_ash_72: 21300144
+      r2c_female_hair_beetle_ash_73: 21300146
+      r2c_female_hair_beetle_ash_74: 21300148
+      r2c_female_hair_beetle_ash_75: 21300150
+      r2c_female_hair_beetle_ash_76: 21300152
+      r2c_female_hair_beetle_ash_77: 21300154
+      r2c_female_hair_beetle_ash_78: 21300156
+      r2c_female_hair_beetle_ash_79: 21300158
+      r2c_female_hair_beetle_ash_8: 21300016
+      r2c_female_hair_beetle_ash_80: 21300160
+      r2c_female_hair_beetle_ash_81: 21300162
+      r2c_female_hair_beetle_ash_82: 21300164
+      r2c_female_hair_beetle_ash_83: 21300166
+      r2c_female_hair_beetle_ash_84: 21300168
+      r2c_female_hair_beetle_ash_85: 21300170
+      r2c_female_hair_beetle_ash_86: 21300172
+      r2c_female_hair_beetle_ash_87: 21300174
+      r2c_female_hair_beetle_ash_88: 21300176
+      r2c_female_hair_beetle_ash_89: 21300178
+      r2c_female_hair_beetle_ash_9: 21300018
+      r2c_female_hair_beetle_ash_90: 21300180
+      r2c_female_hair_beetle_ash_91: 21300182
+      r2c_female_hair_beetle_ash_92: 21300184
+      r2c_female_hair_beetle_ash_93: 21300186
+      r2c_female_hair_beetle_ash_94: 21300188
+      r2c_female_hair_beetle_ash_95: 21300190
+      r2c_female_hair_beetle_ash_96: 21300192
+      r2c_female_hair_beetle_ash_97: 21300194
+      r2c_female_hair_beetle_ash_98: 21300196
+      r2c_female_hair_beetle_ash_99: 21300198
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
