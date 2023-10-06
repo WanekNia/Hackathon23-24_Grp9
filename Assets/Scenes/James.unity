@@ -243,6 +243,50 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1939567605832509261, guid: 3e58a9dc1afeac94ab1fa0b1ef37876d, type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1939567605832509261, guid: 3e58a9dc1afeac94ab1fa0b1ef37876d, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476534214254185538, guid: 3e58a9dc1afeac94ab1fa0b1ef37876d, type: 3}
+      propertyPath: MusicList.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: e0404ebf108288642ba67d85b3d90224, type: 3}
+    - target: {fileID: 3476534214254185538, guid: 3e58a9dc1afeac94ab1fa0b1ef37876d, type: 3}
+      propertyPath: MusicList.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 83c44c00694d75b40a91a3f28bccafec, type: 3}
+    - target: {fileID: 3476534214254185538, guid: 3e58a9dc1afeac94ab1fa0b1ef37876d, type: 3}
+      propertyPath: MusicList.Array.data[2]
+      value: 
+      objectReference: {fileID: 8300000, guid: df25e3d52626ee64396772544e403fe6, type: 3}
+    - target: {fileID: 3476534214254185538, guid: 3e58a9dc1afeac94ab1fa0b1ef37876d, type: 3}
+      propertyPath: MusicList.Array.data[3]
+      value: 
+      objectReference: {fileID: 8300000, guid: 4bbbdbd56b71bbe48b85a00184350c76, type: 3}
+    - target: {fileID: 3476534214254185538, guid: 3e58a9dc1afeac94ab1fa0b1ef37876d, type: 3}
+      propertyPath: MusicList.Array.data[4]
+      value: 
+      objectReference: {fileID: 8300000, guid: 3870bc3005975dc47bffcc83fc516bab, type: 3}
+    - target: {fileID: 3476534214254185538, guid: 3e58a9dc1afeac94ab1fa0b1ef37876d, type: 3}
+      propertyPath: MusicList.Array.data[5]
+      value: 
+      objectReference: {fileID: 8300000, guid: 2a98694371051c544b4d763a02f07e55, type: 3}
+    - target: {fileID: 3476534214254185538, guid: 3e58a9dc1afeac94ab1fa0b1ef37876d, type: 3}
+      propertyPath: MusicList.Array.data[6]
+      value: 
+      objectReference: {fileID: 8300000, guid: 78ebae92fc356fc409b7192df0ff372e, type: 3}
+    - target: {fileID: 3476534214254185538, guid: 3e58a9dc1afeac94ab1fa0b1ef37876d, type: 3}
+      propertyPath: MusicList.Array.data[7]
+      value: 
+      objectReference: {fileID: 8300000, guid: 705714f8df0782249a3bd51c0b80a6e7, type: 3}
+    - target: {fileID: 3476534214254185538, guid: 3e58a9dc1afeac94ab1fa0b1ef37876d, type: 3}
+      propertyPath: MusicList.Array.data[8]
+      value: 
+      objectReference: {fileID: 8300000, guid: f445dbe47907e8d43836948362c341ab, type: 3}
     - target: {fileID: 9181803090094847131, guid: 3e58a9dc1afeac94ab1fa0b1ef37876d, type: 3}
       propertyPath: m_Name
       value: JukeBox Classic
