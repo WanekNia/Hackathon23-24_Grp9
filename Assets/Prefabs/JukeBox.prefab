@@ -165,12 +165,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: -0.010877848, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_renderer: {fileID: 242309324656013097}
-  m_maskType: 0
   _SortingLayer: 0
   _SortingLayerID: 0
   _SortingOrder: 0
+  m_hasFontAssetChanged: 0
+  m_renderer: {fileID: 242309324656013097}
+  m_maskType: 0
 --- !u!1 &3964004475157509416
 GameObject:
   m_ObjectHideFlags: 0
@@ -202,7 +202,7 @@ Transform:
   m_GameObject: {fileID: 3964004475157509416}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.734, y: 7.46, z: 0}
+  m_LocalPosition: {x: 1.734, y: 7.46, z: -0.05}
   m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -320,7 +320,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.040676355}
+  m_Offset: {x: 0, y: -0.1}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -331,8 +331,8 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.96, y: 1.2559543}
-  m_EdgeRadius: 0
+  m_Size: {x: 0.8, y: 1.5}
+  m_EdgeRadius: 0.1
 --- !u!82 &2394253730481236070
 AudioSource:
   m_ObjectHideFlags: 0
@@ -342,7 +342,7 @@ AudioSource:
   m_GameObject: {fileID: 3964004475157509416}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 24300002, guid: a393e48c154116f219e5ac8b88db3b78, type: 2}
+  OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 6c912e08c8e02ed108c51e147bf51740, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -441,6 +441,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e501a7dd4236ebf586ada600c9c6fc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  MusicList:
+  - {fileID: 8300000, guid: 16fa299c94480a9ceb351850a936a804, type: 3}
+  - {fileID: 8300000, guid: 6c912e08c8e02ed108c51e147bf51740, type: 3}
 --- !u!61 &8276281961733995389
 BoxCollider2D:
   m_ObjectHideFlags: 0
