@@ -47,6 +47,7 @@ public class Player : MonoBehaviour
         }
         else
         {
+            timer = 0;
             _animator.SetBool("IsIdle", false);
         }
 
