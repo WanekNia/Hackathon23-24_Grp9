@@ -8,6 +8,7 @@ public class VolumeSlider : MonoBehaviour
 {
     public Slider SliderVolume;
     public TextMeshProUGUI SliderVolumeText;
+    public Jukebox JukeboxInstance;
     void Start()
     {
         SliderVolumeText = GetComponent<TextMeshProUGUI>();
@@ -18,5 +19,10 @@ public class VolumeSlider : MonoBehaviour
     {
         string sliderMessage = "Current volume :\n" + SliderVolume.value;
         SliderVolumeText.text = sliderMessage;
+    }
+
+    public void SetVolume()
+    {
+        JukeboxInstance.GetComponent<AudioSource>().volume = (SliderVolume.value / 1000);
     }
 }
