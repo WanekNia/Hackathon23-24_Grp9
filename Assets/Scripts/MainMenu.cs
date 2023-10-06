@@ -10,7 +10,7 @@ public class MainMenu : MonoBehaviour
     public void EnterMuseum()
     {
         Debug.Log("Entering...");
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("Main Scene");
     }
     public void CharacterSettings()
     {
