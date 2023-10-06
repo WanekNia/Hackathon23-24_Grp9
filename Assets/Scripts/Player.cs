@@ -24,7 +24,6 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        Debug.Log("tzqt");
         horizontal = Input.GetAxis("Horizontal");
         vertical = Input.GetAxis("Vertical");
         flip();
@@ -48,6 +47,7 @@ public class Player : MonoBehaviour
         }
         else
         {
+            timer = 0;
             _animator.SetBool("IsIdle", false);
         }
 
@@ -56,7 +56,6 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Debug.Log("Hor" + horizontal + "\nVer :" + vertical);
         rb.velocity = Vector2.ClampMagnitude(new Vector2(horizontal, vertical) * speed * Time.deltaTime, speed);
     }
 
