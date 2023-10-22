@@ -32,7 +32,7 @@ public class Player : MonoBehaviour
             if (timeToReach <= timer)
             {
                 _animator.SetBool("IsIdle", true);
-
+                Debug.Log("idle");
                 timer = 0;
             }
             else
